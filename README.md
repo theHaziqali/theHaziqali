@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theHaziqali
-- 👀 I’m interested in Mobile Development and ETL proccess, 
+- 👀 I’m interested in Mobile Development,ETL proccess and automating CI/CD, 
 - Loves to automate and find solution of challenges.
 - 🌱 I’m currently learning  Mobile Development
 - 💞️ I’m looking to collaborate on Mobile Development Projects as well would love to do the Resarch projects
