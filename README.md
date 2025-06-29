@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theHaziqali
-- 👀 I’m interested in Mobile Development,ETL proccess and CI/CD, 
+- 👀 I’m Cloud Engineer working mainly in AWS and Azure, 
 - Loves to automate and find solution of challenges.
-- 🌱 I’m currently learning  Mobile Development
-- 💞️ I’m looking to collaborate on Mobile Development Projects as well would love to do the Resarch projects
+- 🌱 I’m currently preparing for AWS Solution Architect - Professional 
+- 💞️ I’m looking to collaborate on different Projects as well would love to do the Resarch projects
 - 📫 How to reach me @haziqaliofficial@gmail.com
 
 <!---
